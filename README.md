@@ -13,3 +13,5 @@ This project was created for implementing an exercise that involves the followin
 10. Use of Singleton Pattern
 
 ![picture](https://user-images.githubusercontent.com/18023773/35001811-ae31b6a2-fab5-11e7-86ed-f81f8eec4709.png)
+![picture](https://user-images.githubusercontent.com/18023773/35001858-d5e3a160-fab5-11e7-8be6-309b73ba31b2.png)
+![picture](https://user-images.githubusercontent.com/18023773/35001891-ef14acec-fab5-11e7-9155-1ed6ac94f506.png)
