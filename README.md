@@ -8,3 +8,8 @@ This project was created for implementing an exercise that involves the followin
 5. Build Custom UI elements like Custom Buttons and Custom UITableViewCell
 6. Use of @IBDesignable and @IBInspectable for dynamically customizing the UI on the Storyboard
 7. Convert Date string to NSDateFormatter and back to String allowing suitable formatting for View Display
+8. Use of Autolayout to support all screen sizes
+9. Use of stackViews and other Storyboard features
+10. Use of Singleton Pattern
+
+https://user-images.githubusercontent.com/18023773/35001811-ae31b6a2-fab5-11e7-86ed-f81f8eec4709.png
