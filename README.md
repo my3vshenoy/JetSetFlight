@@ -12,4 +12,4 @@ This project was created for implementing an exercise that involves the followin
 9. Use of stackViews and other Storyboard features
 10. Use of Singleton Pattern
 
-![picture]https://user-images.githubusercontent.com/18023773/35001811-ae31b6a2-fab5-11e7-86ed-f81f8eec4709.png
+![picture](https://user-images.githubusercontent.com/18023773/35001811-ae31b6a2-fab5-11e7-86ed-f81f8eec4709.png)
